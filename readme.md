@@ -1,6 +1,3 @@
----
-title-heading: false
----
 # Foam
 
 👋 Welcome to your new Foam Workspace!
