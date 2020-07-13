@@ -1,3 +1,5 @@
+title: chbigelow.com
+___
 # Foam
 
 👋 Welcome to your new Foam Workspace!
