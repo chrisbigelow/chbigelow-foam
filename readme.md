@@ -1,3 +1,6 @@
+___
+title: Test
+___
 # Foam
 
 👋 Welcome to your new Foam Workspace!
