@@ -1,9 +1,15 @@
-# Todo
+# Public Todo
 
-- [x] This is an example of a todo list item that's complete
-- [x] Todo lists are useful for keeping organised and focused
-- [ ] This one is not completed yet
-- [ ] You can mark it completed by pressing `Option`+`C` (or `Alt`+`C`) when your cursor is on this line
-  - [ ] You can also select multiple lines and mark them all at once!
-- [ ] When you press enter at the end of a line, it adds a new todo item on the next line
-- [ ] This, and more is provided by the [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) plugin by [Yu Zhang](https://github.com/yzhang-gh)
+This list contains all the list items to complete in the next 5 years.
+
+- [ ] Transition from software engineering into product management
+- [X] Start a company
+- [ ] Start a company with MRR > $1,000
+- [ ] Sail from Los Angeles to Hawaii
+- [ ] Complete >=1 long distance hike (>200 miles)
+- [ ] Complete >=1 long distance canoe trip (>200 miles)
+- [ ] Complete >= 1 long distance bikepacking trip (>1000 miles)
+- [ ] Move out of Los Angeles
+- [ ] Achieve financial independence
+  - [ ] Lower monthly expenses to <$3,000
+  - [ ] Save [>=25x yearly expenses](https://www.mrmoneymustache.com/2012/05/29/how-much-do-i-need-for-retirement/) for safe withdrawl
