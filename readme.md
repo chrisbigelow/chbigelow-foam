@@ -1,6 +1,6 @@
-# 👋 
+# 👋 Hi, I'm Chris Bigelow
 
-Hi, I'm Chris Bigelow. I'm a software engineer with interests in longevity, exercise, and personal finance.
+I'm a software engineer with interests in longevity, exercise, and personal finance.
 
 If you would like to stay connected to my activity, you can follow me on [Twitter](https://twitter.com/chbigelow) or [subscribe to my longevity newsletter.](https://pareto.substack.com)
 
