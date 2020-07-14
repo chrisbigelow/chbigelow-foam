@@ -1,4 +1,4 @@
-# Public Todo
+# Public Todos
 
 This list contains all the list items to complete in the next 5 years.
 
