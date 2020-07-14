@@ -1,4 +1,4 @@
-# chbigelow.com
+# 👋 
 
 Hi, I'm Chris Bigelow. I'm a software engineer with interests in longevity, exercise, and personal finance.
 
